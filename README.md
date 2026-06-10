@@ -15,3 +15,46 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is my profile (:
+Welcome!
+
+I am a tech enthusiast constantly exploring the universe of IT. I use this space primarily to keep my code organized, track my progress, and practice.
+
+---
+
+### 🚀 About Me & My Goals
+- 🎓 Currently focused on deepening both my theoretical and practical knowledge in the field of **Computer Science**.
+- 🛠️ I recognize there is always something new to learn and I strive to grow one step at a time.
+- 🎯 The main goal of this profile is to keep my code organized and record part of my study journey.
+
+---
+
+### 🛠️ Technologies and Tools
+Here are the technologies I am familiar with and can use to handle basic tasks:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+> *I also know just enough Bash to get by when needed and I am always open to learning new tools.*
+
+---
+
+### 📂 What will you find here?
+For now, my repositories reflect my study and leisure moments:
+- 🧩 Solutions for competitive programming/logic challenges.
+- ☕ Small scripts and code I write in my free time as a hobby.
+
+I hope you find something useful around here.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xynel0&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Xynel0's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xynel0&layout=compact&theme=dark" alt="Most Used Languages" height="150" />
+</p>
+
+---
+*"Melhor um TLE que um wrong answer"*
