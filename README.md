@@ -55,7 +55,7 @@ I hope you find something useful around here.
   <img src="https://github-readme-stats.vercel.app/api?username=Xynel0&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Xynel0's GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xynel0&layout=compact&theme=dark" alt="Most Used Languages" height="150" />
 </p>
----
+
 [![Now Playing](https://lastfm-readme-git-master-jakejarvis.vercel.app/api/playing/?username=Xynel0)](https://www.lastfm.com/user/Xynel0)
 
 ---
