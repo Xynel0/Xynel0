@@ -38,8 +38,6 @@ Here are the technologies I am familiar with and can use to handle basic tasks:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-> *I also know just enough Bash to get by when needed and I am always open to learning new tools.*
-
 ---
 
 ### 📂 What will you find here?
