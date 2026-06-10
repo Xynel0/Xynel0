@@ -56,7 +56,8 @@ I hope you find something useful around here.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xynel0&layout=compact&theme=dark" alt="Most Used Languages" height="150" />
 </p>
 
-[![Recent Tracks](https://lastfm-recently-played.vercel.app/api?user=Xynel0&count=5)](https://www.lastfm.com/user/Xynel0)
+[![Now Playing](https://lastfm-recently-played.vercel.app/api?user=Xynel0&count=3)](https://www.lastfm.com/user/Xynel0)
+
 
 ---
 *"Melhor um TLE que um wrong answer"*
