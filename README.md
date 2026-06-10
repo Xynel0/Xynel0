@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is my profile (:
+This is my profile (: 
 Welcome!
+
+![Views](https://komarev.com/ghpvc/?username=Xynel0&color=00599c&style=flat-square)
 
 I am a tech enthusiast constantly exploring the universe of IT. I use this space primarily to keep my code organized, track my progress, and practice.
 
