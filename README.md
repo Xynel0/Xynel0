@@ -39,7 +39,6 @@ My current toolbox — a mix of technologies I've used and others I am actively 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/ciscopackettracer.svg" height="40" alt="Cisco Packet Tracer" style="background-color: #1BA0D7; padding: 4px; border-radius: 4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
 </div>
 
