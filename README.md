@@ -39,7 +39,7 @@ My current toolbox — a mix of technologies I've used and others I am actively 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=plastic&logo=cisco&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=latex&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=plastic&logo=latex&logoColor=white)
 
 
 ---
