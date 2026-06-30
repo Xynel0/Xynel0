@@ -57,7 +57,7 @@ I hope you find something useful around here.
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xynel0&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Xynel0's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Xynel0&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xynel0&layout=compact&theme=dark" alt="Most Used Languages" height="150" />
 </p>
 
