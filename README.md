@@ -56,9 +56,15 @@ I hope you find something useful around here.
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xynel0&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xynel0&layout=compact&theme=dark" alt="Most Used Languages" height="150" />
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Xynel0">
+    <img src="https://github-readme-stats.vercel.app/api?username=Xynel0&show_icons=true&theme=dark" height="170" />
+  </a>
+  <a href="https://github.com/Xynel0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xynel0&layout=compact&theme=dark" height="170" />
+  </a>
 </p>
 
 [![Now Playing](https://lastfm-recently-played.vercel.app/api?user=Xynel0&count=3)](https://www.lastfm.com/user/Xynel0)
