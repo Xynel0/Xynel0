@@ -56,8 +56,6 @@ I hope you find something useful around here.
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <a href="https://github.com/Xynel0">
     <img src="https://github-readme-stats.vercel.app/api?username=Xynel0&show_icons=true&theme=dark" height="170" />
