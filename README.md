@@ -58,10 +58,10 @@ I hope you find something useful around here.
 
 <p align="center">
   <a href="https://github.com/Xynel0">
-    <img src="https://github-readme-stats.vercel.app/api?username=Xynel0&show_icons=true&theme=dark" height="170" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Xynel0&show_icons=true&theme=dark" height="170" />
   </a>
   <a href="https://github.com/Xynel0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xynel0&layout=compact&theme=dark" height="170" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Xynel0&layout=compact&theme=dark" height="170" />
   </a>
 </p>
 
