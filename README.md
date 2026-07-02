@@ -65,7 +65,7 @@ I hope you find something useful around here.
   </a>
 </p>
 
-[![Now Playing](https://lastfm-recently-played.vercel.app/api?user=Xynel0&count=3)](https://www.lastfm.com/user/Xynel0)
+[![Now Playing](https://lastfm-recently-played.vercel.app/api?user=Xynel0&count=5)](https://www.lastfm.com/user/Xynel0)
 
 
 ---
