@@ -64,7 +64,7 @@ I hope you find something useful around here.
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xynel0&layout=compact&theme=dark"  />
   </a>
   <a href="https://www.lastfm.com/user/Xynel0">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=Xynel0&count=5" alt="Now Playing" />
+    <img src="https://lastfm-recently-played.vercel.app/api?user=Xynel0&count=5&bg=151515&show_user=header" alt="Now Playing" />
   </a>
 </p>
 
