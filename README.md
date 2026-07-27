@@ -61,7 +61,7 @@ I hope you find something useful around here.
     <img src="https://github-stats-extended.vercel.app/api?username=Xynel0&show=reviews,prs_merged&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Xynel0">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xynel0&layout=compact&theme=dark" height="170" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xynel0&layout=compact&theme=dark"  />
   </a>
 </p>
 
