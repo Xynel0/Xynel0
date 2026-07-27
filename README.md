@@ -61,7 +61,7 @@ I hope you find something useful around here.
     <img src="https://github-readme-stats-fast.vercel.app/api?username=Xynel0&show_icons=true&theme=dark" height="170" />
   </a>
   <a href="https://GitHub.com/Xynel0">
-    <img src="https://github-stats-extended.vercel.app/api?username=Xynel0&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Xynel0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Xynel0">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xynel0&layout=compact&theme=dark" height="170" />
