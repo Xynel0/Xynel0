@@ -56,12 +56,6 @@ I hope you find something useful around here.
 
 ### 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xynel0/Xynel0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xynel0/Xynel0/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xynel0/Xynel0/output/github-contribution-grid-snake.svg">
-</picture>
-
 <p align="center">
   <a href="https://GitHub.com/Xynel0">
     <img src="https://github-stats-extended.vercel.app/api?username=Xynel0&show=reviews,prs_merged&show_icons=true&include_all_commits=true&theme=dark&bg_color=000000" alt="GitHub Stats" />
@@ -73,6 +67,14 @@ I hope you find something useful around here.
     <img src="https://lastfm-recently-played.vercel.app/api?user=Xynel0&count=5&bg_color=000000&show_user=header" alt="Now Playing" />
   </a>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xynel0/Xynel0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xynel0/Xynel0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xynel0/Xynel0/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
-*"Melhor um TLE que um wrong answer"*
+
+***"Melhor um TLE que um wrong answer"***
+
+---
