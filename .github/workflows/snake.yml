@@ -17,12 +17,12 @@ jobs:
     
     steps:
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: Xynel0
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#39d353&color_dots=#161b22,#5c0000,#8b0000,#c00000,#ff3333
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#39d353&color_dots=#161b22,#5c0000,#8b0000,#c00000,#ff3333
+            dist/github-contribution-grid-snake.svg?color_snake=#39d353&color_dots=#161b22,#5c0000,#8b0000,#c00000,#ff3333&color_background=#000000
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#39d353&color_dots=#161b22,#5c0000,#8b0000,#c00000,#ff3333&color_background=#000000
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
