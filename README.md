@@ -36,7 +36,7 @@ I am a tech enthusiast constantly exploring the universe of IT. I use this space
 My current toolbox — a mix of technologies I've used and others I am actively exploring:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" float="left"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
 
@@ -53,7 +53,7 @@ My current toolbox — a mix of technologies I've used and others I am actively 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="MarkDown" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="40" alt="Yaml" />
-</div
+</div>
 
 ---
 
