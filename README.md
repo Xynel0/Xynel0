@@ -35,7 +35,6 @@ I am a tech enthusiast constantly exploring the universe of IT. I use this space
 ### 🛠️ Technologies and Tools
 My current toolbox — a mix of technologies I've used and others I am actively exploring:
 
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -45,7 +44,6 @@ My current toolbox — a mix of technologies I've used and others I am actively 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="MarkDown" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="40" alt="Yaml" />
-</p>
 
 ---
 
