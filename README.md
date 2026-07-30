@@ -75,6 +75,8 @@ I hope you find something useful around here.
 
 ---
 
-***"Melhor um TLE que um wrong answer"***
+<p align="center">
+  <strong><em>"Melhor um TLE que um wrong answer"</em></strong>
+</p>
 
 ---
