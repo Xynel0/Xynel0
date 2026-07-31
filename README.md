@@ -74,7 +74,7 @@ I hope you find something useful around here.
 
 <p align="center">
   <a href="https://www.lastfm.com/user/Xynel0">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=Xynel0&count=5&bg_color=000000&show_user=header" alt="Now Playing" />
+    <img src="https://lastfm-recently-played.vercel.app/api?user=Xynel0&count=5&bg_color=000001&show_user=header" alt="Now Playing" />
   </a>
 </p>
 
