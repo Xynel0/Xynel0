@@ -62,7 +62,7 @@ I hope you find something useful around here.
 
 <p align="center">
   <a href="https://GitHub.com/Xynel0">
-    <img src="https://github-stats-extended.vercel.app/api?username=Xynel0&show=reviews,prs_merged&show_icons=true&include_all_commits=true&theme=dark&bg_color=000000" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Xynel0&show=reviews,prs_merged&show_icons=true&include_all_commits=true&theme=tokyo-night&bg_color=000000" alt="GitHub Stats" />
   </a>
 </p>
 
