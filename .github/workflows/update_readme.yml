@@ -14,6 +14,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -35,16 +36,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Update README timestamp
+      - name: Update README stats cache
         run: |
-          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          VERSION=$(date +%s)
 
-          if grep -q "<!-- LAST_UPDATE:" README.md; then
-            sed -i "s|<!-- LAST_UPDATE:.*-->|<!-- LAST_UPDATE: ${TIMESTAMP} -->|" README.md
-          else
-            echo "" >> README.md
-            echo "<!-- LAST_UPDATE: ${TIMESTAMP} -->" >> README.md
-          fi
+          sed -i "s/&v=[0-9]*/\&v=${VERSION}/g" README.md
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -52,6 +48,6 @@ jobs:
           git add README.md
 
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update README timestamp"
+            git commit -m "chore: refresh README stats cache"
             git push
           fi
