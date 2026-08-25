@@ -46,6 +46,7 @@ My current toolbox — a mix of technologies I've used and others I am actively 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
 </div>
+
 ---
 
 ### 📂 What will you find here?
