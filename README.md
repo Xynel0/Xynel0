@@ -62,13 +62,13 @@ I hope you find something useful around here.
 
 <p align="center">
   <a href="https://GitHub.com/Xynel0">
-    <img src="https://github-stats-extended.vercel.app/api?username=Xynel0&show=reviews,prs_merged&show_icons=true&include_all_commits=true&theme=dark&bg_color=000000&v=1788096424" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Xynel0&show=reviews,prs_merged&show_icons=true&include_all_commits=true&theme=dark&bg_color=000000&v=1788117624" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Xynel0">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xynel0&layout=compact&theme=dark&bg_color=000000&v=1788096424"  />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xynel0&layout=compact&theme=dark&bg_color=000000&v=1788117624"  />
   </a>
 </p>
 
