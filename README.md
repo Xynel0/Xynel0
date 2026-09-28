@@ -20,7 +20,7 @@ Welcome!
 
 I am a tech enthusiast constantly exploring the universe of IT. I use this space primarily to keep my code organized, track my progress, and practice.
 
-![Views](https://komarev.com/ghpvc/?username=Xynel0&color=000000c&style=plastic)
+![Views](https://komarev.com/ghpvc/?username=Xynel0&color=000000&style=plastic)
 
 ---
 
