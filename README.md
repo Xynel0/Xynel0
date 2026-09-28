@@ -20,11 +20,6 @@ Welcome!
 
 I am a tech enthusiast constantly exploring the universe of IT. I use this space primarily to keep my code organized, track my progress, and practice.
 
-![Views](https://profile-counter.glitch.me/Xynel0/count.svg)
-
-![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXynel0&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)
-
-
 ![Views](https://komarev.com/ghpvc/?username=Xynel0&color=000000&style=plastic)
 
 ---
