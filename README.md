@@ -89,8 +89,6 @@ I hope you find something useful around here.
 
 ---
 
-<p align="center">
-  <strong><em>"Melhor um TLE que um wrong answer"</em></strong>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=821AB9&center=true&repeat=false&width=435&lines=Melhor+um+TLE+que+um+wrong+answer!)](https://git.io/typing-svg)
 
 ---
