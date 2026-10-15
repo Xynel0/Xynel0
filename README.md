@@ -69,7 +69,7 @@ I hope you find something useful around here.
 
 <p align="center">
   <a href="https://github.com/Xynel0">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xynel0&layout=compact&bg_color=45,007777,770077&text_color=ffffff&title_color=ffffff&hide_border=true&v=1792034389"  />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xynel0&layout=compact&bg_color=45,004444,440044&text_color=ffffff&title_color=ffffff&hide_border=true&v=1792034390"  />
   </a>
 </p>
 
