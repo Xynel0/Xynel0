@@ -63,13 +63,13 @@ I hope you find something useful around here.
 
 <p align="center">
   <a href="https://GitHub.com/Xynel0">
-    <img src="https://github-stats-extended.vercel.app/api?username=Xynel0&custom_title=Stats&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&bg_color=45,330033,003333&text_color=FFFFFF&icon_color=FF00FF&title_color=FF00FF&ring_color=FF00FF&border_radius=10&hide_border=true&v=1793072957" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Xynel0&custom_title=Stats&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&bg_color=45,330033,003333&text_color=FFFFFF&icon_color=FF00FF&title_color=FF00FF&ring_color=FF00FF&border_radius=10&hide_border=true&v=1793160474" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Xynel0">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xynel0&layout=compact&bg_color=45,003333,330033&text_color=ffffff&title_color=FF00FF&border_radius=10&hide_border=true&v=1793072957"  />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xynel0&layout=compact&bg_color=45,003333,330033&text_color=ffffff&title_color=FF00FF&border_radius=10&hide_border=true&v=1793160474"  />
   </a>
 </p>
 
