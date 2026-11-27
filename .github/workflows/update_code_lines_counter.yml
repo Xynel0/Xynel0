@@ -1,0 +1,61 @@
+name: Atualizar Linhas de Cdigo Pblicas
+on:
+  schedule:
+    # Roda automaticamente todo domingo  meia-noite
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+  # Permite rodar manualmente pelo boto no GitHub
+permissions:
+  contents: write # Permisso necessria para editar o README.md
+
+jobs:
+  count-loc:
+    runs-on: ubuntu-latest
+    steps:      
+      - name: Checkout do repositrio
+        uses: actions/checkout@v4
+        
+      - name: Instalar cloc
+        run: sudo apt-get update && sudo apt-get install -y cloc jq
+      
+      - name: Contar linhas dos repositrios pblicos
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          mkdir -p temp_repos && cd temp_repos
+          # Lista todos os repositrios públicos que não são forks
+          repos=$(gh api "users/$USERNAME/repos?type=owner&per_page=100" --jq '.[] | select(.fork == false and .private == false) | .clone_url')
+          for repo in $repos; do
+            git clone --depth 1 "$repo"
+          done
+          # Executa o cloc e formata a sada em Markdown
+          cloc . --md --quiet x ../cloc_output.md
+          cd .. && rm -rf temp_repos
+          
+      - name: Atualizar README.md
+        run: |
+          python3 -c '
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+          with open("cloc_output.md", "r", encoding="utf-8") as f:
+              stats = f.read()
+          # Remove o cabeçalho padrão do cloc e mantm apenas a tabela
+          table = "\n".join([line for line in stats.splitlines() if line.startswith("|")])
+          start = "z!-- START_PUBLIC_CODE_STATS --x"
+          end = "z!-- END_PUBLIC_CODE_STATS --x"
+          if start in readme and end in readme:
+              before = readme.split(start)[0]
+              after = readme.split(end)[1]
+              new_readme = f"{before}{start}\n\n{table}\n\n{end}{after}"
+              with open("README.md", "w", encoding="utf-8") as f:
+                  f.write(new_readme)
+          '
+          rm -f cloc_output.md
+          
+      - name: Salvar alteraçes no README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: atualizar contagem de linhas de cdigo" && git push)
