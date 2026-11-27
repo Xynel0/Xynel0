@@ -1,4 +1,4 @@
-name: Atualizar Linhas de Cdigo Pblicas
+name: Atualizar Linhas de Código Públicas
 on:
   schedule:
     # Roda automaticamente todo domingo  meia-noite
@@ -12,19 +12,19 @@ jobs:
   count-loc:
     runs-on: ubuntu-latest
     steps:      
-      - name: Checkout do repositrio
+      - name: Checkout do repositório
         uses: actions/checkout@v4
         
       - name: Instalar cloc
         run: sudo apt-get update && sudo apt-get install -y cloc jq
       
-      - name: Contar linhas dos repositrios pblicos
+      - name: Contar linhas dos repositórios públicos
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
         run: |
           mkdir -p temp_repos && cd temp_repos
-          # Lista todos os repositrios públicos que não são forks
+          # Lista todos os repositórios públicos que não são forks
           repos=$(gh api "users/$USERNAME/repos?type=owner&per_page=100" --jq '.[] | select(.fork == false and .private == false) | .clone_url')
           for repo in $repos; do
             git clone --depth 1 "$repo"
@@ -53,7 +53,7 @@ jobs:
           '
           rm -f cloc_output.md
           
-      - name: Salvar alteraçes no README
+      - name: Salvar alterações no README
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
