@@ -30,6 +30,7 @@ jobs:
             git clone --depth 1 "$repo"
           done
           # Executa o cloc e formata a sada em Markdown
+          touch ../cloc_output.md
           cloc . --md --quiet x ../cloc_output.md
           cd .. && rm -rf temp_repos
           
