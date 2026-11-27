@@ -73,9 +73,6 @@ I hope you find something useful around here.
   </a>
 </p>
 
-<!-- START_PUBLIC_CODE_STATS -->
-<!-- END_PUBLIC_CODE_STATS -->
-
 <p align="center">
   <a href="https://www.lastfm.com/user/Xynel0">
     <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=Xynel0&count=5&art=1&header=1&logo=0&time=1&profile=off&username=0&avatar=0&stats=compact&loved=off&bg_color=000000&text_color=ffffff&artist_color=cc88cc&meta_color=cc88cc&accent_color=cc88cc&width=400&radius=10" alt="Now Playing" />
