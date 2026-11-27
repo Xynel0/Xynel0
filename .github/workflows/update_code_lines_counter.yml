@@ -27,7 +27,7 @@ jobs:
           # Lista todos os repositórios públicos que não são forks
           repos=$(gh api "users/$USERNAME/repos?type=owner&per_page=100" --jq '.[] | select(.fork == false and .private == false) | .clone_url')
           for repo in $repos; do
-            git clone --depth 1 "$repo"
+            git clone --depth 1 "$repo" || true
           done
           # Executa o cloc e formata a sada em Markdown
           touch ../cloc_output.md
